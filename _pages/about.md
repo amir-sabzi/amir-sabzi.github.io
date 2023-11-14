@@ -21,3 +21,5 @@ I am a research staff member at Computer Science Department of the University of
 
 I am broadly interested in Security and Privacy of Computer Systems. My research focuses on designing practical systems that are firmly rooted in solid theoretical foundations.  In particular, I am interested in differential privacy, network side-channels, and private machine-learning.
 
+You can find my CV [here](/assets/pdf/AmirSabzi_CV_Oct.pdf).
+
